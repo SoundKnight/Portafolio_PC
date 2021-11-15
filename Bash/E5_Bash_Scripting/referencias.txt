@@ -1,0 +1,3 @@
+https://haveibeenpwned.com/API/v1
+https://haveibeenpwned.com/API/v3#BreachesForAccount
+https://github.com/AlNotSteve/Pwned
