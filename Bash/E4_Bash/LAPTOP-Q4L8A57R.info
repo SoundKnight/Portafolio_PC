@@ -1,0 +1,661 @@
+<systeminfo host="" type=""LAPTOP-Q4L8A57RMSWindate="" time="">
+2021-09-0123:09:23<>
+unameMINGW64_NT-10.0-19042 LAPTOP-Q4L8A57R 3.1.7-340.x86_64 2021-03-26 22:17 UTC x86_64 Msys
+</>
+uname<>
+sysinfo
+Nombre de host:                            LAPTOP-Q4L8A57R
+Nombre del sistema operativo:              Microsoft Windows 10 Home Single Language
+Versi贸n del sistema operativo:             10.0.19042 N/D Compilaci贸n 19042
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci贸n del sistema operativo:       Estaci贸n de trabajo independiente
+Tipo de compilaci贸n del sistema operativo: Multiprocessor Free
+Propiedad de:                              fuegaso27@gmail.com
+Organizaci贸n registrada:                   HP
+Id. del producto:                          00327-30686-64276-AAOEM
+Fecha de instalaci贸n original:             30/03/2021, 11:54:39 a. m.
+Tiempo de arranque del sistema:            26/08/2021, 02:56:50 p. m.
+Fabricante del sistema:                    HP
+Modelo el sistema:                         HP Laptop 15-da0xxx
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 142 Stepping 9 GenuineIntel ~2300 Mhz
+Versi贸n del BIOS:                          Insyde F.07, 21/11/2018
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci贸n regional del sistema:        es-mx;Espa帽ol (M茅xico)
+Idioma de entrada:                         es-mx;Espa帽ol (M茅xico)
+Zona horaria:                              (UTC-06:00) Guadalajara, Ciudad de M茅xico, Monterrey
+Cantidad total de memoria f铆sica:          8,107 MB
+Memoria f铆sica disponible:                 1,061 MB
+Memoria virtual: tama帽o m谩ximo:            20,395 MB
+Memoria virtual: disponible:               5,985 MB
+Memoria virtual: en uso:                   14,410 MB
+Ubicaci贸n(es) de archivo de paginaci贸n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi贸n:              \\LAPTOP-Q4L8A57R
+Revisi贸n(es):                              7 revisi贸n(es) instaladas.
+                                           [01]: KB5004331
+                                           [02]: KB4562830
+                                           [03]: KB4577586
+                                           [04]: KB4580325
+                                           [05]: KB5001679
+                                           [06]: KB5004237
+                                           [07]: KB5005260
+Tarjeta(s) de red:                         6 Tarjetas de interfaz de red instaladas.
+                                           [01]: Kaspersky Security Data Escort Adapter
+                                                 Nombre de conexi贸n: Ethernet 2
+                                                 Estado:             Medios desconectados
+                                           [02]: Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+                                                 Nombre de conexi贸n: Wi-Fi
+                                                 DHCP habilitado:    S铆
+                                                 Servidor DHCP:      192.168.100.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.100.22
+                                                 [02]: fe80::b5e5:34a1:449:29bd
+                                           [03]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexi贸n: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [04]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexi贸n: Conexi贸n de red Bluetooth
+                                                 Estado:             Medios desconectados
+                                           [05]: LogMeIn Hamachi Virtual Ethernet Adapter
+                                                 Nombre de conexi贸n: Ethernet 3
+                                                 Estado:             Hardware ausente
+                                           [06]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi贸n: Ethernet 4
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::2d9c:d01d:27ce:5c0c
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S铆
+                                           Se habilit贸 la virtualizaci贸n en el firmware: S铆
+                                           Traducci贸n de direcciones de segundo nivel: S铆
+                                           La prevenci贸n de ejecuci贸n de datos est谩 disponible: S铆
+</>
+sysinfo<>
+nwinterface
+Configuraci IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::2d9c:d01d:27ce:5c0c%62
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal爉brica Conexi de 爎ea local* 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de LAN inal爉brica Conexi de 爎ea local* 4:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+
+Adaptador de LAN inal爉brica Wi-Fi:
+
+   Sufijo DNS especico para la conexi. . : 
+   Vculo: direcci IPv6 local. . . : fe80::b5e5:34a1:449:29bd%10
+   Direcci IPv4. . . . . . . . . . . . . . : 192.168.100.22
+   M爏cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.100.1
+
+Adaptador de Ethernet Conexi de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especico para la conexi. . : 
+</>
+nwinterface<>
+nwroute===========================================================================
+ILista de interfaces
+  2...b0 0c d1 9e 9a 53 ......Realtek PCIe GbE Family Controller
+ 62...0a 00 27 00 00 3e ......VirtualBox Host-Only Ethernet Adapter
+  4...4a 5f 99 40 14 4d ......Microsoft Wi-Fi Direct Virtual Adapter #3
+ 22...48 5f 99 40 14 4d ......Microsoft Wi-Fi Direct Virtual Adapter #4
+  8...00 ff 49 cd 32 57 ......Kaspersky Security Data Escort Adapter
+ 10...48 5f 99 40 14 4d ......Realtek RTL8723DE 802.11b/g/n PCIe Adapter
+  5...48 5f 99 40 14 4e ......Bluetooth Device (Personal Area Network)
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Tabla de enrutamiento
+===========================================================================
+Rutas activas:
+Destino de red        M爏cara de red   Puerta de enlace   Interfaz  M倀rica
+          0.0.0.0          0.0.0.0    192.168.100.1   192.168.100.22     55
+        127.0.0.0        255.0.0.0      En vculo         127.0.0.1    331
+        127.0.0.1  255.255.255.255      En vculo         127.0.0.1    331
+  127.255.255.255  255.255.255.255      En vculo         127.0.0.1    331
+     192.168.56.0    255.255.255.0      En vculo      192.168.56.1    281
+     192.168.56.1  255.255.255.255      En vculo      192.168.56.1    281
+   192.168.56.255  255.255.255.255      En vculo      192.168.56.1    281
+    192.168.100.0    255.255.255.0      En vculo    192.168.100.22    311
+   192.168.100.22  255.255.255.255      En vculo    192.168.100.22    311
+  192.168.100.255  255.255.255.255      En vculo    192.168.100.22    311
+        224.0.0.0        240.0.0.0      En vculo         127.0.0.1    331
+        224.0.0.0        240.0.0.0      En vculo      192.168.56.1    281
+        224.0.0.0        240.0.0.0      En vculo    192.168.100.22    311
+  255.255.255.255  255.255.255.255      En vculo         127.0.0.1    331
+  255.255.255.255  255.255.255.255      En vculo      192.168.56.1    281
+  255.255.255.255  255.255.255.255      En vculo    192.168.100.22    311
+===========================================================================
+Rutas persistentes:
+  Direcci de red  M爏cara de red  Direcci de puerta de enlace  M倀rica
+          0.0.0.0          0.0.0.0         25.0.0.1  Predeterminada 
+===========================================================================
+
+IPv6 Tabla de enrutamiento
+===========================================================================
+Rutas activas:
+ Cuando destino de red m倀rica      Puerta de enlace
+  1    331 ::1/128                  En vculo
+ 62    281 fe80::/64                En vculo
+ 10    311 fe80::/64                En vculo
+ 62    281 fe80::2d9c:d01d:27ce:5c0c/128
+                                    En vculo
+ 10    311 fe80::b5e5:34a1:449:29bd/128
+                                    En vculo
+  1    331 ff00::/8                 En vculo
+ 62    281 ff00::/8                 En vculo
+ 10    311 ff00::/8                 En vculo
+===========================================================================
+Rutas persistentes:
+ Cuando destino de red m倀rica      Puerta de enlace
+  0 4294967295 2620:9b::/96             En vculo
+  0   9000 ::/0                     2620:9b::1900:1
+===========================================================================
+</>
+nwroute<>
+nwarp
+Interfaz: 192.168.100.22 --- 0xa
+  Direcci de Internet          Direcci fica      Tipo
+  192.168.100.1         98-35-ed-d2-1e-a2     din爉ico  
+  192.168.100.6         fc-2d-5e-22-99-52     din爉ico  
+  192.168.100.49        b8-bc-5b-5b-0e-44     din爉ico  
+  192.168.100.59        22-51-61-75-d1-49     din爉ico  
+  192.168.100.127       5c-51-81-01-22-6d     din爉ico  
+  192.168.100.255       ff-ff-ff-ff-ff-ff     est爐ico  
+  224.0.0.22            01-00-5e-00-00-16     est爐ico  
+  224.0.0.251           01-00-5e-00-00-fb     est爐ico  
+  224.0.0.252           01-00-5e-00-00-fc     est爐ico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est爐ico  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     est爐ico  
+
+Interfaz: 192.168.56.1 --- 0x3e
+  Direcci de Internet          Direcci fica      Tipo
+  192.168.56.255        ff-ff-ff-ff-ff-ff     est爐ico  
+  224.0.0.22            01-00-5e-00-00-16     est爐ico  
+  224.0.0.251           01-00-5e-00-00-fb     est爐ico  
+  224.0.0.252           01-00-5e-00-00-fc     est爐ico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est爐ico  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     est爐ico  
+</>
+nwarp<>
+netstat
+Conexiones activas
+
+  Proto  Direcci local        Direcci remota       Estado
+  TCP    0.0.0.0:135            LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:445            LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:3020           LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:3050           LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:5040           LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:5357           LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:7680           LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:8733           LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:49664          LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:49665          LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:49666          LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:49667          LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:49668          LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:49669          LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    0.0.0.0:49679          LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    127.0.0.1:1024         LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:1045         LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:1047         LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:1061         LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:1067         LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:1996         LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:2896         LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    127.0.0.1:4529         LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:5939         LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    127.0.0.1:6463         LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    127.0.0.1:6662         LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:10897        LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:14586        LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:16847        LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:25635        LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:28092        LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:28222        LAPTOP-Q4L8A57R:28223  ESTABLISHED
+  TCP    127.0.0.1:28223        LAPTOP-Q4L8A57R:28222  ESTABLISHED
+  TCP    127.0.0.1:29048        LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:29762        LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:30725        LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:31855        LAPTOP-Q4L8A57R:49689  ESTABLISHED
+  TCP    127.0.0.1:49683        LAPTOP-Q4L8A57R:49684  ESTABLISHED
+  TCP    127.0.0.1:49684        LAPTOP-Q4L8A57R:49683  ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:1024   ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:1045   ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:1047   ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:1061   ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:1067   ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:1996   ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:4529   ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:6662   ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:10897  ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:14586  ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:16847  ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:25635  ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:28092  ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:29048  ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:29762  ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:30725  ESTABLISHED
+  TCP    127.0.0.1:49689        LAPTOP-Q4L8A57R:31855  ESTABLISHED
+  TCP    127.0.0.1:49692        LAPTOP-Q4L8A57R:49693  ESTABLISHED
+  TCP    127.0.0.1:49693        LAPTOP-Q4L8A57R:49692  ESTABLISHED
+  TCP    127.0.0.1:49729        LAPTOP-Q4L8A57R:49730  ESTABLISHED
+  TCP    127.0.0.1:49730        LAPTOP-Q4L8A57R:49729  ESTABLISHED
+  TCP    192.168.56.1:139       LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    192.168.100.22:139     LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    192.168.100.22:1025    13.107.6.171:https     ESTABLISHED
+  TCP    192.168.100.22:1039    52.114.159.104:https   ESTABLISHED
+  TCP    192.168.100.22:1048    52.109.20.36:https     ESTABLISHED
+  TCP    192.168.100.22:2681    52.109.12.108:https    ESTABLISHED
+  TCP    192.168.100.22:5633    13.107.6.171:https     TIME_WAIT
+  TCP    192.168.100.22:5634    52.96.191.114:https    ESTABLISHED
+  TCP    192.168.100.22:5635    52.96.191.114:https    ESTABLISHED
+  TCP    192.168.100.22:5875    66.110.49.72:https     TIME_WAIT
+  TCP    192.168.100.22:5876    66.110.49.114:https    ESTABLISHED
+  TCP    192.168.100.22:5877    52.114.133.157:https   ESTABLISHED
+  TCP    192.168.100.22:5926    13.107.6.171:https     TIME_WAIT
+  TCP    192.168.100.22:5928    52.111.239.16:https    ESTABLISHED
+  TCP    192.168.100.22:5932    52.111.239.16:https    ESTABLISHED
+  TCP    192.168.100.22:5935    104.208.16.90:https    ESTABLISHED
+  TCP    192.168.100.22:5936    a23-218-85-218:https   ESTABLISHED
+  TCP    192.168.100.22:5937    38.113.165.140:https   ESTABLISHED
+  TCP    192.168.100.22:5938    66.110.49.72:https     TIME_WAIT
+  TCP    192.168.100.22:8001    52.112.115.108:https   ESTABLISHED
+  TCP    192.168.100.22:9518    38.113.165.142:https   ESTABLISHED
+  TCP    192.168.100.22:16793   162.159.133.234:https  ESTABLISHED
+  TCP    192.168.100.22:17344   52.98.81.178:https     ESTABLISHED
+  TCP    192.168.100.22:19849   52.114.132.137:https   ESTABLISHED
+  TCP    192.168.100.22:20097   13.107.6.171:https     ESTABLISHED
+  TCP    192.168.100.22:20098   51.132.193.105:https   ESTABLISHED
+  TCP    192.168.100.22:20726   52.114.128.203:https   ESTABLISHED
+  TCP    192.168.100.22:20765   52.226.139.121:https   ESTABLISHED
+  TCP    192.168.100.22:28144   whatsapp-cdn-shv-02-qro1:https  ESTABLISHED
+  TCP    192.168.100.22:28224   82.202.185.211:https   ESTABLISHED
+  TCP    192.168.100.22:28228   52.109.20.75:https     ESTABLISHED
+  TCP    192.168.100.22:28229   a23-218-86-217:https   ESTABLISHED
+  TCP    192.168.100.22:28230   52.109.2.52:https      ESTABLISHED
+  TCP    192.168.100.22:28231   52.109.2.52:https      ESTABLISHED
+  TCP    192.168.100.22:28232   52.109.20.46:https     ESTABLISHED
+  TCP    192.168.100.22:28233   40.126.24.146:https    ESTABLISHED
+  TCP    [::]:135               LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:445               LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:3020              LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:5357              LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:7680              LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:8733              LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:49664             LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:49665             LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:49666             LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:49667             LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:49668             LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:49669             LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::]:49679             LAPTOP-Q4L8A57R:0      LISTENING
+  TCP    [::1]:3020             LAPTOP-Q4L8A57R:25713  ESTABLISHED
+  TCP    [::1]:25713            LAPTOP-Q4L8A57R:cifs   ESTABLISHED
+  TCP    [::1]:49670            LAPTOP-Q4L8A57R:0      LISTENING
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:3702           *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:49673          *:*                    
+  UDP    0.0.0.0:54955          *:*                    
+  UDP    0.0.0.0:57255          *:*                    
+  UDP    0.0.0.0:62936          *:*                    
+  UDP    0.0.0.0:63178          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:5353         *:*                    
+  UDP    127.0.0.1:44301        *:*                    
+  UDP    127.0.0.1:49668        *:*                    
+  UDP    127.0.0.1:58147        *:*                    
+  UDP    192.168.56.1:137       *:*                    
+  UDP    192.168.56.1:138       *:*                    
+  UDP    192.168.56.1:1900      *:*                    
+  UDP    192.168.56.1:2177      *:*                    
+  UDP    192.168.56.1:58146     *:*                    
+  UDP    192.168.100.22:137     *:*                    
+  UDP    192.168.100.22:138     *:*                    
+  UDP    192.168.100.22:1900    *:*                    
+  UDP    192.168.100.22:2177    *:*                    
+  UDP    192.168.100.22:58148   *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:3702              *:*                    
+  UDP    [::]:4500              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5353              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:49674             *:*                    
+  UDP    [::]:54955             *:*                    
+  UDP    [::]:57256             *:*                    
+  UDP    [::]:62936             *:*                    
+  UDP    [::]:63179             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:58144            *:*                    
+  UDP    [fe80::2d9c:d01d:27ce:5c0c%62]:1900  *:*                    
+  UDP    [fe80::2d9c:d01d:27ce:5c0c%62]:2177  *:*                    
+  UDP    [fe80::2d9c:d01d:27ce:5c0c%62]:58143  *:*                    
+  UDP    [fe80::b5e5:34a1:449:29bd%10]:1900  *:*                    
+  UDP    [fe80::b5e5:34a1:449:29bd%10]:2177  *:*                    
+  UDP    [fe80::b5e5:34a1:449:29bd%10]:58145  *:*                    
+</>
+netstat<>
+diskinfo
+Nombre       Recurso                         Descripci
+
+-------------------------------------------------------------------------------
+C$           C:\                             Recurso predeterminado            
+IPC$                                         IPC remota                        
+ADMIN$       C:\WINDOWS                      Admin remota                      
+Se ha completado el comando correctamente.
+
+</>
+diskinfo<>
+processes
+Nombre de imagen               PID Nombre de sesi贸n N煤m. de ses Uso de memor
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         8 KB
+System                           4 Services                   0    10,332 KB
+Registry                       100 Services                   0    66,612 KB
+smss.exe                       720 Services                   0       840 KB
+csrss.exe                      820 Services                   0     6,208 KB
+wininit.exe                    904 Services                   0     6,512 KB
+services.exe                   980 Services                   0    10,848 KB
+lsass.exe                     1000 Services                   0    25,996 KB
+svchost.exe                   1096 Services                   0    37,428 KB
+fontdrvhost.exe               1120 Services                   0     2,112 KB
+WUDFHost.exe                  1188 Services                   0    10,840 KB
+WUDFHost.exe                  1256 Services                   0     6,668 KB
+svchost.exe                   1328 Services                   0    21,324 KB
+svchost.exe                   1380 Services                   0    10,608 KB
+svchost.exe                   1584 Services                   0     9,832 KB
+svchost.exe                   1688 Services                   0     9,656 KB
+svchost.exe                   1704 Services                   0    10,132 KB
+svchost.exe                   1712 Services                   0    10,880 KB
+svchost.exe                   1720 Services                   0     7,088 KB
+svchost.exe                   1816 Services                   0    11,540 KB
+IntelCpHDCPSvc.exe            1832 Services                   0     6,464 KB
+svchost.exe                   1928 Services                   0    16,000 KB
+svchost.exe                   1944 Services                   0    15,364 KB
+svchost.exe                   1952 Services                   0     7,680 KB
+svchost.exe                   1968 Services                   0     7,372 KB
+svchost.exe                   1980 Services                   0     5,936 KB
+svchost.exe                    764 Services                   0     5,716 KB
+svchost.exe                   2232 Services                   0    12,688 KB
+svchost.exe                   2252 Services                   0     7,532 KB
+svchost.exe                   2280 Services                   0     9,068 KB
+IntelCpHeciSvc.exe            2296 Services                   0     6,044 KB
+svchost.exe                   2400 Services                   0     6,892 KB
+svchost.exe                   2452 Services                   0    11,396 KB
+svchost.exe                   2504 Services                   0     7,940 KB
+igfxCUIService.exe            2528 Services                   0     8,124 KB
+svchost.exe                   2580 Services                   0     7,236 KB
+dasHost.exe                   2656 Services                   0    20,056 KB
+svchost.exe                   2720 Services                   0    11,948 KB
+svchost.exe                   2784 Services                   0     9,684 KB
+svchost.exe                   2924 Services                   0     6,168 KB
+AppHelperCap.exe              2948 Services                   0    15,820 KB
+NetworkCap.exe                2956 Services                   0    10,992 KB
+DiagsCap.exe                  2964 Services                   0     6,588 KB
+svchost.exe                   2972 Services                   0     8,356 KB
+svchost.exe                   2980 Services                   0    20,584 KB
+SysInfoCap.exe                3032 Services                   0    12,432 KB
+svchost.exe                   3044 Services                   0     6,364 KB
+svchost.exe                   2576 Services                   0     9,236 KB
+svchost.exe                   3112 Services                   0     7,340 KB
+svchost.exe                   3172 Services                   0     7,872 KB
+svchost.exe                   3496 Services                   0    17,928 KB
+svchost.exe                   3556 Services                   0    18,672 KB
+svchost.exe                   3620 Services                   0    17,472 KB
+svchost.exe                   3760 Services                   0     7,356 KB
+svchost.exe                   3820 Services                   0     9,672 KB
+svchost.exe                   3972 Services                   0     7,540 KB
+unsecapp.exe                   964 Services                   0     7,964 KB
+WmiPrvSE.exe                  3432 Services                   0     9,456 KB
+PresentationFontCache.exe     4392 Services                   0     9,860 KB
+svchost.exe                   4556 Services                   0    25,432 KB
+DropboxUpdate.exe             4628 Services                   0       876 KB
+svchost.exe                   4712 Services                   0     7,292 KB
+svchost.exe                   4968 Services                   0     7,768 KB
+svchost.exe                   4996 Services                   0    15,268 KB
+svchost.exe                   5112 Services                   0    13,912 KB
+SynTPEnhService.exe           2304 Services                   0     8,120 KB
+svchost.exe                    828 Services                   0    44,072 KB
+svchost.exe                   1376 Services                   0     5,356 KB
+svchost.exe                   4408 Services                   0     7,296 KB
+Memory Compression            4044 Services                   0    91,072 KB
+svchost.exe                   5164 Services                   0    15,192 KB
+svchost.exe                   5288 Services                   0     6,172 KB
+svchost.exe                   5292 Services                   0     9,352 KB
+svchost.exe                   5468 Services                   0    19,176 KB
+spoolsv.exe                   5620 Services                   0    15,764 KB
+svchost.exe                   5696 Services                   0    16,760 KB
+svchost.exe                   5816 Services                   0     6,860 KB
+svchost.exe                   5824 Services                   0     6,948 KB
+wlanext.exe                   5860 Services                   0     7,320 KB
+conhost.exe                   5868 Services                   0     4,240 KB
+svchost.exe                   5916 Services                   0     9,472 KB
+svchost.exe                   6028 Services                   0    32,684 KB
+svchost.exe                   6036 Services                   0    42,560 KB
+svchost.exe                   6076 Services                   0     9,508 KB
+PnkBstrA.exe                  6132 Services                   0     5,920 KB
+svchost.exe                    832 Services                   0     5,820 KB
+svchost.exe                   1200 Services                   0    10,240 KB
+CxAudioSvc.exe                4916 Services                   0    18,112 KB
+fbguard.exe                   5328 Services                   0     5,756 KB
+svchost.exe                   1340 Services                   0    18,788 KB
+svchost.exe                   5908 Services                   0     5,208 KB
+svchost.exe                   6212 Services                   0     6,336 KB
+SynAudSrv.exe                 6256 Services                   0     6,840 KB
+SECOMN64.exe                  6264 Services                   0     9,000 KB
+armsvc.exe                    6272 Services                   0     5,504 KB
+RtkAudUService64.exe          6296 Services                   0    10,432 KB
+hamachi-2.exe                 6332 Services                   0    13,080 KB
+RtkBtManServ.exe              6344 Services                   0     6,432 KB
+esif_uf.exe                   6368 Services                   0     4,452 KB
+svchost.exe                   6396 Services                   0     2,720 KB
+LMIGuardianSvc.exe            6456 Services                   0     7,176 KB
+avp.exe                       6488 Services                   0   248,856 KB
+RstMwService.exe              6528 Services                   0     5,356 KB
+sqlwriter.exe                 6616 Services                   0     6,820 KB
+WildTangentHelperService.     6636 Services                   0    15,476 KB
+svchost.exe                   6744 Services                   0     8,344 KB
+svchost.exe                   6784 Services                   0    11,520 KB
+jhi_service.exe               7004 Services                   0     5,336 KB
+sqlceip.exe                   7012 Services                   0    23,096 KB
+TeamViewer_Service.exe        7076 Services                   0    12,744 KB
+sqlceip.exe                   7128 Services                   0    18,236 KB
+fbserver.exe                  6420 Services                   0     6,036 KB
+svchost.exe                   6112 Services                   0    17,012 KB
+dllhost.exe                   3104 Services                   0     9,448 KB
+svchost.exe                   7428 Services                   0    14,848 KB
+SecurityHealthService.exe     3184 Services                   0    15,304 KB
+svchost.exe                   9184 Services                   0    10,668 KB
+svchost.exe                   4900 Services                   0     8,444 KB
+HPCommRecovery.exe            8332 Services                   0    23,644 KB
+HPJumpStartBridge.exe         5272 Services                   0     8,656 KB
+HPSupportSolutionsFramewo     5480 Services                   0    11,540 KB
+svchost.exe                   9104 Services                   0    14,152 KB
+IAStorDataMgrSvc.exe          9828 Services                   0    73,268 KB
+ksde.exe                      4188 Services                   0    16,960 KB
+SgrmBroker.exe               10320 Services                   0     7,216 KB
+svchost.exe                   3092 Services                   0     8,892 KB
+svchost.exe                  11708 Services                   0     7,448 KB
+svchost.exe                  12508 Services                   0     4,360 KB
+svchost.exe                  12624 Services                   0     7,468 KB
+svchost.exe                  13796 Services                   0    21,068 KB
+WmiPrvSE.exe                  6056 Services                   0     7,104 KB
+svchost.exe                  14304 Services                   0     5,692 KB
+svchost.exe                  13144 Services                   0     6,352 KB
+taskhostw.exe                16236 Services                   0    34,360 KB
+svchost.exe                  19160 Services                   0    19,024 KB
+OfficeClickToRun.exe          9084 Services                   0    41,824 KB
+AppVShNotify.exe             20096 Services                   0     7,024 KB
+SearchIndexer.exe            18120 Services                   0    37,008 KB
+csrss.exe                    11852 Console                   10     7,548 KB
+winlogon.exe                  8704 Console                   10    10,804 KB
+fontdrvhost.exe              11904 Console                   10     8,460 KB
+dwm.exe                       3796 Console                   10    96,068 KB
+SynTPEnh.exe                 14480 Console                   10    11,184 KB
+sihost.exe                   18580 Console                   10    26,216 KB
+svchost.exe                  20472 Console                   10    32,064 KB
+igfxEM.exe                    6004 Console                   10    13,348 KB
+svchost.exe                   8248 Console                   10    29,080 KB
+taskhostw.exe                21228 Console                   10    18,016 KB
+explorer.exe                 12616 Console                   10   158,584 KB
+SynTPHelper.exe               7484 Console                   10     6,448 KB
+svchost.exe                   8800 Console                   10    27,128 KB
+ctfmon.exe                   11864 Console                   10    24,752 KB
+ksdeui.exe                    8300 Console                   10     3,140 KB
+avpui.exe                    17532 Console                   10     3,984 KB
+StartMenuExperienceHost.e     6560 Console                   10    49,372 KB
+RuntimeBroker.exe            18608 Console                   10    16,588 KB
+SearchApp.exe                13136 Console                   10    77,508 KB
+TextInputHost.exe            10400 Console                   10    20,584 KB
+RuntimeBroker.exe             5356 Console                   10    40,120 KB
+YourPhone.exe                13476 Console                   10    24,064 KB
+SecurityHealthSystray.exe    18252 Console                   10     9,708 KB
+RtkAudUService64.exe          8212 Console                   10    12,160 KB
+RtlS5Wake.exe                 1624 Console                   10    13,600 KB
+PreMiD.exe                    8656 Console                   10    30,784 KB
+PreMiD.exe                   18920 Console                   10    15,540 KB
+jusched.exe                   3120 Console                   10    16,264 KB
+HPAudioSwitch.exe             4548 Console                   10    17,844 KB
+PreMiD.exe                   17460 Console                   10    20,644 KB
+svchost.exe                  10940 Console                   10    20,660 KB
+HPSystemEventUtilityHost.    15420 Console                   10    22,672 KB
+svchost.exe                  17660 Console                   10    15,120 KB
+RuntimeBroker.exe            17032 Console                   10    15,940 KB
+Teams.exe                    11740 Console                   10   135,388 KB
+Teams.exe                    18588 Console                   10    98,408 KB
+Teams.exe                    18424 Console                   10    33,120 KB
+Teams.exe                    13116 Console                   10    43,124 KB
+Teams.exe                    15888 Console                   10   357,888 KB
+Teams.exe                     3732 Console                   10    20,272 KB
+ShellExperienceHost.exe      19864 Console                   10    44,024 KB
+RuntimeBroker.exe            19172 Console                   10    26,816 KB
+Teams.exe                    13096 Console                   10   149,436 KB
+Teams.exe                    18464 Console                   10   186,872 KB
+WinStore.App.exe             10616 Console                   10     2,716 KB
+ApplicationFrameHost.exe      1532 Console                   10    21,668 KB
+RuntimeBroker.exe             1140 Console                   10    10,612 KB
+Video.UI.exe                 10380 Console                   10     2,488 KB
+UserOOBEBroker.exe           16212 Console                   10     9,688 KB
+Discord.exe                   7468 Console                   10    43,120 KB
+Discord.exe                  14720 Console                   10     7,520 KB
+Discord.exe                  15920 Console                   10    59,472 KB
+Discord.exe                  12532 Console                   10    26,792 KB
+Discord.exe                  10176 Console                   10   181,596 KB
+Discord.exe                  19784 Console                   10    15,480 KB
+dllhost.exe                  18704 Console                   10    12,192 KB
+svchost.exe                  15688 Services                   0     6,700 KB
+RuntimeBroker.exe            10732 Console                   10     7,600 KB
+RuntimeBroker.exe             7136 Console                   10    24,816 KB
+SettingSyncHost.exe           7084 Console                   10     4,720 KB
+msedge.exe                    8668 Console                   10   194,516 KB
+msedge.exe                   15380 Console                   10     7,932 KB
+msedge.exe                   19480 Console                   10    61,300 KB
+msedge.exe                    7404 Console                   10    42,048 KB
+msedge.exe                   10184 Console                   10    18,660 KB
+msedge.exe                   20800 Console                   10   125,144 KB
+msedge.exe                   17876 Console                   10    68,836 KB
+msedge.exe                    9264 Console                   10    50,884 KB
+msedge.exe                   10332 Console                   10    66,100 KB
+msedge.exe                   15044 Console                   10    62,792 KB
+msedge.exe                   12884 Console                   10    57,408 KB
+msedge.exe                   14300 Console                   10   116,444 KB
+msedge.exe                   20148 Console                   10    52,488 KB
+msedge.exe                   12416 Console                   10   395,816 KB
+msedge.exe                   13952 Console                   10   115,764 KB
+msedge.exe                   12412 Console                   10   100,344 KB
+msedge.exe                    4468 Console                   10   248,728 KB
+msedge.exe                   16604 Console                   10    21,324 KB
+rundll32.exe                 17924 Console                   10     8,868 KB
+conhost.exe                  17988 Console                   10     6,032 KB
+DbxSvc.exe                   29984 Services                   0     6,380 KB
+audiodg.exe                  29416 Services                   0    23,236 KB
+msedge.exe                   26136 Console                   10    45,544 KB
+svchost.exe                  24004 Services                   0     8,396 KB
+WhatsApp.exe                 27836 Console                   10    79,912 KB
+WhatsApp.exe                 26436 Console                   10    95,052 KB
+WhatsApp.exe                 21344 Console                   10    36,272 KB
+WhatsApp.exe                  2196 Console                   10    29,044 KB
+WhatsApp.exe                 25988 Console                   10   134,856 KB
+WhatsApp.exe                 14520 Console                   10    63,572 KB
+WhatsApp.exe                 21728 Console                   10    68,232 KB
+git-bash.exe                 30132 Console                   10     5,120 KB
+mintty.exe                   20040 Console                   10    19,292 KB
+conhost.exe                  16376 Console                   10     7,992 KB
+bash.exe                     16428 Console                   10    10,776 KB
+Code.exe                      3632 Console                   10    85,524 KB
+Code.exe                     30180 Console                   10    24,996 KB
+Code.exe                     21608 Console                   10   126,248 KB
+Code.exe                     18372 Console                   10    37,736 KB
+Code.exe                      4528 Console                   10   154,412 KB
+Code.exe                     25172 Console                   10    82,264 KB
+CodeHelper.exe               14624 Console                   10    15,920 KB
+Code.exe                     29652 Console                   10    77,904 KB
+conhost.exe                  23800 Console                   10     6,192 KB
+Code.exe                     24916 Console                   10    64,204 KB
+Code.exe                     17076 Console                   10    78,328 KB
+SearchProtocolHost.exe       30172 Services                   0    11,524 KB
+svchost.exe                  19428 Services                   0     7,924 KB
+svchost.exe                  22352 Services                   0     8,064 KB
+SearchProtocolHost.exe       13428 Console                   10     8,488 KB
+WINWORD.EXE                  19776 Console                   10   226,040 KB
+Teams.exe                    30680 Console                   10    83,700 KB
+sh.exe                        1448 Console                   10     8,384 KB
+sh.exe                       17464 Console                   10     8,712 KB
+TrustedInstaller.exe         12128 Services                   0     8,128 KB
+TiWorker.exe                 28552 Services                   0    30,876 KB
+SearchFilterHost.exe         26852 Services                   0    12,824 KB
+backgroundTaskHost.exe       28312 Console                   10    15,956 KB
+svchost.exe                  25388 Services                   0     9,232 KB
+RuntimeBroker.exe            28796 Console                   10    15,384 KB
+smartscreen.exe               2792 Console                   10    24,256 KB
+sh.exe                        9692 Console                   10     7,380 KB
+tasklist.exe                 24752 Console                   10     9,816 KB
+WmiPrvSE.exe                 12708 Services                   0    10,240 KB
+</>
+processes</systeminfo>
